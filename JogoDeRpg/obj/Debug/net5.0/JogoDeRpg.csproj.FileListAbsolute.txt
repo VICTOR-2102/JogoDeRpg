@@ -1,0 +1,16 @@
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\bin\Debug\net5.0\JogoDeRpg.exe
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\bin\Debug\net5.0\JogoDeRpg.deps.json
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\bin\Debug\net5.0\JogoDeRpg.runtimeconfig.json
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\bin\Debug\net5.0\JogoDeRpg.runtimeconfig.dev.json
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\bin\Debug\net5.0\JogoDeRpg.dll
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\bin\Debug\net5.0\ref\JogoDeRpg.dll
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\bin\Debug\net5.0\JogoDeRpg.pdb
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.csproj.AssemblyReference.cache
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.AssemblyInfoInputs.cache
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.AssemblyInfo.cs
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.csproj.CoreCompileInputs.cache
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.dll
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\obj\Debug\net5.0\ref\JogoDeRpg.dll
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.pdb
+C:\Users\vhmar\source\repos\JogoDeRpg\JogoDeRpg\obj\Debug\net5.0\JogoDeRpg.genruntimeconfig.cache
